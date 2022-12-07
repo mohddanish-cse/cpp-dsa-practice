@@ -12,7 +12,7 @@ int main() {
   return 0;
 }
 
-//Output
+// Sample Output
 // A B C D E 
 // A B C D E 
 // A B C D E 

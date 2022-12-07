@@ -13,7 +13,7 @@ int main() {
     return 0;
 }
 
-//Output
+// Sample Output
 // 1 
 // 2 2 
 // 3 3 3 

@@ -14,7 +14,7 @@ int main() {
   return 0;
 }
 
-//Output
+// Sample Output
 // A B C 
 // B C D 
 // C D E 
